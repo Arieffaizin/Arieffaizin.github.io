@@ -1,0 +1,10 @@
+title: "Andi Pratama"
+description: >-
+  Portofolio Data Scientist yang dibangun dengan Jekyll dan GitHub Pages.
+baseurl: ""
+url: "https://arieffaizin.github.io"  # Ganti dengan username kamu
+
+theme: minima
+plugins:
+  - jekyll-feed
+
