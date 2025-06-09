@@ -1,10 +1,5 @@
-title: "Arief Faizin"
-description: >-
-  Portofolio Data Scientist yang dibangun dengan Jekyll dan GitHub Pages.
-baseurl: ""
-url: "https://arieffaizin.github.io"  # Ganti dengan username kamu
-
-theme: minima
-plugins:
-  - jekyll-feed
+title: Arief Faizin
+logo: /assets/img/profile.png
+url: "https://arieffaizin.github.io"  
+theme: jekyll-theme-minimal
 
